@@ -10,36 +10,10 @@ namespace NET.A._2019.Alekseev._04
     {
         static void Main(string[] args)
         {
-            Random rand = new Random();
-            Polynomial polynom1 = new Polynomial(new double[] { 3,-4,5});
-            Polynomial polynom2 = new Polynomial(new double[] { 3, -4, 5 });
-            int[] a = { 5, 3, 2, 5, 7, 42, 43, 54, 23, 134, 3461, 1324, 12, 23 };
-            int[][] aa = new int[3][];
-            for(int i=0;i<aa.Length;i++)
-            {
-                aa[i] = new int[5];
-            }
-            for(int i=0;i<aa.Length;i++)
-            {
-                for(int j=0;j<aa[i].Length;j++)
-                {
-                    aa[i][j] = rand.Next(15);
-                   Console.Write(aa[i][j]+" ");
-                }
-                Console.WriteLine();
-            }
-            Console.WriteLine("//////////");
-            Console.WriteLine();
-            Console.Write("");
-            BubbleSortClass.SortByMinElem(aa);
-            for (int i = 0; i < aa.Length; i++)
-            {
-                for (int j = 0; j < aa[i].Length; j++)
-                {
-                    Console.Write(aa[i][j]+" ");
-                }
-                Console.WriteLine();
-            }
+            Polynomial polynom1 = new Polynomial(3, 4, 1, 2, 1);
+            Polynomial polynom2 = new Polynomial(2, 1, 1, 3, 4, 8, 5, 4.6, 17.35);
+            Polynomial result = polynom1 + polynom2;
+            Console.WriteLine(result.Equals(new Polynomial(5, 5, 2, 5, 5, 8, 5, 4.6, 17.35)));
         }
     }
 }

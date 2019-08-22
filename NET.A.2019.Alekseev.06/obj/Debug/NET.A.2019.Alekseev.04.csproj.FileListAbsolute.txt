@@ -5,3 +5,9 @@ D:\epam\Day6\NET.A.2019.Alekseev.04\bin\Debug\NET.A.2019.Alekseev.04.exe
 D:\epam\Day6\NET.A.2019.Alekseev.04\bin\Debug\NET.A.2019.Alekseev.04.pdb
 D:\epam\Day6\NET.A.2019.Alekseev.04\obj\Debug\NET.A.2019.Alekseev.04.exe
 D:\epam\Day6\NET.A.2019.Alekseev.04\obj\Debug\NET.A.2019.Alekseev.04.pdb
+D:\epam\Day6\NET.A.2019.Alekseev.06\bin\Debug\NET.A.2019.Alekseev.04.exe.config
+D:\epam\Day6\NET.A.2019.Alekseev.06\bin\Debug\NET.A.2019.Alekseev.04.exe
+D:\epam\Day6\NET.A.2019.Alekseev.06\bin\Debug\NET.A.2019.Alekseev.04.pdb
+D:\epam\Day6\NET.A.2019.Alekseev.06\obj\Debug\NET.A.2019.Alekseev.04.csproj.CoreCompileInputs.cache
+D:\epam\Day6\NET.A.2019.Alekseev.06\obj\Debug\NET.A.2019.Alekseev.04.exe
+D:\epam\Day6\NET.A.2019.Alekseev.06\obj\Debug\NET.A.2019.Alekseev.04.pdb

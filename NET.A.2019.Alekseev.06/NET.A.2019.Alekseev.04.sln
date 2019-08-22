@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29025.244
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET.A.2019.Alekseev.04", "NET.A.2019.Alekseev.04.csproj", "{D964EB0D-9F31-469D-9FDF-2E0852A3145E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET.A.2019.Alekseev.04Tests", "..\NET.A.2019.Alekseev.04Tests\NET.A.2019.Alekseev.04Tests.csproj", "{7A4B6242-70EB-4331-BDAB-63BC0C203306}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D964EB0D-9F31-469D-9FDF-2E0852A3145E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D964EB0D-9F31-469D-9FDF-2E0852A3145E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D964EB0D-9F31-469D-9FDF-2E0852A3145E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4B6242-70EB-4331-BDAB-63BC0C203306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4B6242-70EB-4331-BDAB-63BC0C203306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4B6242-70EB-4331-BDAB-63BC0C203306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4B6242-70EB-4331-BDAB-63BC0C203306}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
